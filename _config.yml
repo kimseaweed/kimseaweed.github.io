@@ -1,8 +1,8 @@
 # Site settings
-title: Kimseaweeds blog # site title
+title: 김양식장 # site title
 description: >- # site description
-  "안녕하세요! 이민지(김해초) 입니다."
-lang: en-US # default lang
+  안녕하세요! 이민지/김자반 입니다.
+lang: ko-KR # default lang
 timezone: Asia/Seoul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/kimseaweed/kimseaweed.github.io # site repo [optional]
@@ -10,13 +10,13 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Kimseaweed # author name
+  name: 이민지 # author name
   bio: >- # tell to the world 
-    "안녕하세요! 이민지/김해초 입니다"
-  username: kimseaweed # general username
+    안녕하세요! 이민지/김자반 입니다
+  username: 김자반 # general username
   github: kimseaweed # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
+  twitter:  # twitter username
+  facebook:  # facebook username
   email: leeminji1944@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
@@ -44,7 +44,9 @@ defaults:
       path: ""
     values:
       layout: post
-      comments: false
+      comments: true
+      showdate: true
+      
 
 # Jekyll Compose default front matter
 jekyll_compose:

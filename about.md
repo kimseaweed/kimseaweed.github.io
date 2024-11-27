@@ -1,18 +1,28 @@
 ---
-title: Colophon
+title: 김자반
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: .
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+안녕하세요✨  
+웹 개발자 이민지 / 김자반 입니다.
+<br><br>
 
-If you have a question about him or else, just send a letter to him.
+**Contact ✨**
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+- 메일: <mailto:{{ site.author.email }}>
+- 깃허브: <https://(github.com/{{ site.author.github }}>
+<br><br>
 
-**may u needs ✨**
+**Tech Stack ✨**
+- HTML / CSS / JS
+- Vue.js
+- SpringBoot
+- Oracle / MySQL
+<br><br>
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+**Focus ✨**
+- 학점은행제 컴퓨터공학 학사 (수료 목표:26년2월)
+- 정보처리기사 취득 (25년 1회)
