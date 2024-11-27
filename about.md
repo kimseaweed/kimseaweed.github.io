@@ -1,5 +1,5 @@
 ---
-title: 김자반
+title: About
 permalink: /about/
 layout: page
 excerpt: .
@@ -13,7 +13,7 @@ comments: false
 **Contact ✨**
 
 - 메일: <mailto:{{ site.author.email }}>
-- 깃허브: <https://(github.com/{{ site.author.github }}>
+- 깃허브: <https://github.com/{{ site.author.github }}>
 <br><br>
 
 **Tech Stack ✨**
@@ -24,5 +24,5 @@ comments: false
 <br><br>
 
 **Focus ✨**
-- 학점은행제 컴퓨터공학 학사 (수료 목표:26년2월)
-- 정보처리기사 취득 (25년 1회)
+- 학점은행제 컴퓨터공학 과정 진행중 (수료 목표: 26년2월)
+- 정보처리기사 준비중 (25년 1회)

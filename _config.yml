@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: 이민지 # author name
+  name: 김자반 # author name
   bio: >- # tell to the world 
     안녕하세요! 이민지/김자반 입니다
   username: 김자반 # general username
